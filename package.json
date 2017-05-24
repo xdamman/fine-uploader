@@ -2,8 +2,8 @@
   "name": "fine-uploader",
   "title": "Fine Uploader",
   "main": "lib/traditional.js",
-  "types": "typescript/fine-uploader.d.ts",
-  "version": "5.14.1",
+  "types" : "typescript/fine-uploader.d.ts",
+  "version": "5.14.2",
   "description": "Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 & Azure uploading, client-side image scaling, preview generation, form support, chunking, auto-resume, and tons of other features.",
   "keywords": [
     "amazon",
@@ -57,7 +57,7 @@
     "mocha": "3.2.0",
     "node-static": "0.7.9",
     "opencollective-postinstall": "^1.0.12",
-    "pica": "latest",
+    "pica": "2.0.8",
     "uglify-js": "2.8.3"
   },
   "scripts": {
